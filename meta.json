@@ -1,0 +1,236 @@
+{
+  "Jaguar E-Type": {
+    "slug": "jaguar-e-type",
+    "path": "images/jaguar-e-type.jpg",
+    "ext": ".jpg",
+    "artist": "DeFacto",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg",
+    "desc": "A 1961 Jaguar E-Type Series 1 3.8 Litre. This one is the first production open two-seater and is on permanent loan to the Jaguar Heritage Collection at the Brit"
+  },
+  "Ferrari 250 GTO": {
+    "slug": "ferrari-250-gto",
+    "path": "images/ferrari-250-gto.jpg",
+    "ext": ".jpg",
+    "artist": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GTO_SP25.jpg",
+    "desc": "A 1962 Ferrari 250 GTO taken at Salon Prive 2025."
+  },
+  "Lamborghini Miura": {
+    "slug": "lamborghini-miura",
+    "path": "images/lamborghini-miura.jpg",
+    "ext": ".jpg",
+    "artist": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1971_Lamborghini_Miura_P400_SV.jpg",
+    "desc": "1971 Lamborghini Miura P400 SV Taken at the Concours d'Elegance Hampton Court 2019"
+  },
+  "Mercedes-Benz 300 SL": {
+    "slug": "mercedes-benz-300-sl",
+    "path": "images/mercedes-benz-300-sl.jpg",
+    "ext": ".jpg",
+    "artist": "Bahnfrend",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fox_Classic_Car_Collection%2C_2008_%2802%29.JPG",
+    "desc": "A pair of Mercedes-Benz 300 SLs on display at the Fox Classic Car Collection, Docklands, Vic, Australia.  At left is a 1957 300 SL Roadster, and at right a 1956"
+  },
+  "Aston Martin DB5": {
+    "slug": "aston-martin-db5",
+    "path": "images/aston-martin-db5.jpg",
+    "ext": ".jpg",
+    "artist": "DeFacto",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB5_%28Skyfall%29.jpg",
+    "desc": "One of the Aston Martin DB5s used in the James Bond Skyfall film. Photographed in the Great Court at Blenheim Palace where it was on display for the premiere of"
+  },
+  "Ford GT40": {
+    "slug": "ford-gt40",
+    "path": "images/ford-gt40.jpg",
+    "ext": ".jpg",
+    "artist": "edvvc from London, UK",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GT40_at_Goodwood.jpg",
+    "desc": "Ford GT40 at the Goodwood Festival of Speed, with Gulf Oil racing colours."
+  },
+  "Alfa Romeo 33 Stradale": {
+    "slug": "alfa-romeo-33-stradale",
+    "path": "images/alfa-romeo-33-stradale.jpg",
+    "ext": ".jpg",
+    "artist": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg",
+    "desc": "1968 Alfa Romeo 33 Stradale at an Alfa Romeo/Maserati dealership in Greenwich, Connecticut, being exhibited in response to the 2024 Greenwich Concours d'Eleganc"
+  },
+  "Bugatti Type 57": {
+    "slug": "bugatti-type-57",
+    "path": "images/bugatti-type-57.jpg",
+    "ext": ".jpg",
+    "artist": "Ramgeis",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bugatti_Type_57_Atalante_1936.jpg",
+    "desc": "Bugatti Typ 57 Atalante Baujahr 1936, fotografiert von Ramgeis in Pebble Beach, Kalifornien im August 2004, GNU-FDL"
+  },
+  "AC Cobra": {
+    "slug": "ac-cobra",
+    "path": "images/ac-cobra.jpg",
+    "ext": ".jpg",
+    "artist": "Stahlkocher",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Shelby_AC_427_Cobra_vl_blue.jpg",
+    "desc": "Shelby AC 427 Cobra."
+  },
+  "McLaren F1": {
+    "slug": "mclaren-f1",
+    "path": "images/mclaren-f1.jpg",
+    "ext": ".jpg",
+    "artist": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg",
+    "desc": "1996 McLaren F1 Chassis No 63 6.1 Front (Restored and rebuilt by MSO) Taken at the Concours d'Elegance Hampton Court 2019"
+  },
+  "Ferrari F40": {
+    "slug": "ferrari-f40",
+    "path": "images/ferrari-f40.jpg",
+    "ext": ".jpg",
+    "artist": "Will ainsworth",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:F40_Ferrari_20090509.jpg",
+    "desc": "A Ferrari F40 photographed while driven on a road"
+  },
+  "Lamborghini Countach": {
+    "slug": "lamborghini-countach",
+    "path": "images/lamborghini-countach.jpg",
+    "ext": ".jpg",
+    "artist": "Brian Snelson from Hockley, Essex, England",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg",
+    "desc": "Lamborghini Countach 5000QV"
+  },
+  "Chevrolet Corvette (C2)": {
+    "slug": "chevrolet-corvette-c2",
+    "path": "images/chevrolet-corvette-c2.jpg",
+    "ext": ".jpg",
+    "artist": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe%2C_front_left%2C_08-25-2024.jpg",
+    "desc": "1963 Chevrolet Corvette Sting Ray Sport Coupe photographed at the August 25th, 2024 \"Memories\" Cruise in New Castle, Pennsylvania. Finished in Ermine White."
+  },
+  "Porsche 959": {
+    "slug": "porsche-959",
+    "path": "images/porsche-959.jpg",
+    "ext": ".jpg",
+    "artist": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "page": "https://commons.wikimedia.org/wiki/File:Porsche_959_%E2%80%93_Frontansicht_%282%29%2C_21._M%C3%A4rz_2013%2C_D%C3%BCsseldorf.jpg",
+    "desc": "Frontansicht eines Porsche 959."
+  },
+  "Toyota 2000GT": {
+    "slug": "toyota-2000gt",
+    "path": "images/toyota-2000gt.jpg",
+    "ext": ".jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:TOYOTA_2000GT.jpg",
+    "desc": ""
+  },
+  "Lancia Stratos": {
+    "slug": "lancia-stratos",
+    "path": "images/lancia-stratos.jpg",
+    "ext": ".jpg",
+    "artist": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1974_Lancia_Stratos_Stradale_at_Greenwich_2021%2C_front_left.jpg",
+    "desc": "1974 Lancia Stratos Stradale (chassis no. 001656) on display at the 2021 Greenwich Concours d'Elegance. Belongs to the same happy person who owns the ex-Toivone"
+  },
+  "Ferrari Enzo": {
+    "slug": "ferrari-enzo",
+    "path": "images/ferrari-enzo.jpg",
+    "ext": ".jpg",
+    "artist": "Axion23",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Orange_Enzo_Ferrari_%287191948164%29.jpg",
+    "desc": "Orange Enzo Ferrari @ Cars and Coffee"
+  },
+  "Porsche 911": {
+    "slug": "porsche-911",
+    "path": "images/porsche-911.jpg",
+    "ext": ".jpg",
+    "artist": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg",
+    "desc": "70 Years Porsche, DRIVE. Volkswagen Group Forum"
+  },
+  "Citro\u00ebn DS": {
+    "slug": "citroen-ds",
+    "path": "images/citroen-ds.jpg",
+    "ext": ".jpg",
+    "artist": "Klugschnacker",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg",
+    "desc": "I edited the original image for use on my ad-supported automotive website (Ate Up With Motor), obscuring the numberplate. This is the edited version."
+  },
+  "Nissan S30": {
+    "slug": "nissan-s30",
+    "path": "images/nissan-s30.jpg",
+    "ext": ".jpg",
+    "artist": "TTTNIS",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:1970-1973_Nissan_Fairlady_Z.jpg",
+    "desc": "Nissan Fairlady Z AT"
+  },
+  "Ferrari 288 GTO": {
+    "slug": "ferrari-288-gto",
+    "path": "images/ferrari-288-gto.jpg",
+    "ext": ".jpg",
+    "artist": "GTHO",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_%281%29.JPG",
+    "desc": "Ferrari 288 GTO"
+  },
+  "Aston Martin DB4 GT Zagato": {
+    "slug": "aston-martin-db4-gt-zagato",
+    "path": "images/aston-martin-db4-gt-zagato.jpg",
+    "ext": ".jpg",
+    "artist": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg",
+    "desc": "A 1960 Aston Martin DB4 GT Zagato taken at Hampton Court Concours 2024."
+  },
+  "Mercedes-Benz 300 SLR": {
+    "slug": "mercedes-benz-300-slr",
+    "path": "images/mercedes-benz-300-slr.jpg",
+    "ext": ".jpg",
+    "artist": "LSDSL",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_300_SLR_1955.jpg",
+    "desc": "Mercedes-Benz 300 SLR auf der IAA 2009"
+  },
+  "Duesenberg Model J": {
+    "slug": "duesenberg-model-j",
+    "path": "images/duesenberg-model-j.jpg",
+    "ext": ".jpg",
+    "artist": "Rex Gray",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1930_Duesenberg_J_Murphy_Disappearing_Top_Torpedo_Convertible_Coupe_-_fvl_%284609844035%29.jpg",
+    "desc": "1930 Duesenberg J Murphy Disappearing Top Torpedo Convertible Coupe.\n\nAt 1947 Delahaye 175 at Newport Beach, CA, Concours d'Elegance, Strawberry Farms."
+  },
+  "Bugatti Veyron": {
+    "slug": "bugatti-veyron",
+    "path": "images/bugatti-veyron.jpg",
+    "ext": ".jpg",
+    "artist": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "page": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+    "desc": "A Bugatti Veyron 16.4 Grand Sport on display outside Bentley D\u00fcsseldorf located in D\u00fcsseldorf, Germany"
+  },
+  "Pagani Zonda": {
+    "slug": "pagani-zonda",
+    "path": "images/pagani-zonda.jpg",
+    "ext": ".jpg",
+    "artist": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg",
+    "desc": "Pagani Zonda C12 'chassis 001' at Geneva Motor Show 2019"
+  }
+}
